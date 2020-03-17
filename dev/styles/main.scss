@@ -1,0 +1,12 @@
+// Подключение шрифтов и переменных
+@import 'reset';
+@import 'fonts';
+@import 'vars';
+@import 'sprite';
+// Подключение библиотек
+@import 'vendor/jquery.formstyler';
+@import 'vendor/animate';
+// Подключение компонентов
+@import 'components/header';
+@import 'components/content';
+@import 'components/footer';
