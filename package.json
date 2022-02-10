@@ -31,7 +31,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "gulp.spritesmith": "^6.11.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.18.2",
     "require-dir": "^1.2.0"
   },
